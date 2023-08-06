@@ -159,6 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-Pepper Bell/
-potato/
-Tomato/
+# Exclude the Potato_disease_check/potato folder
+/Potato_disease_check/potato/
+# Exclude the Potato_disease_check/Tomato folder
+/Tomato/
+# Exclude the Potato_disease_check/Pepper bell folder
+/Pepepr Bell/
